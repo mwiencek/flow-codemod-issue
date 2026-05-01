@@ -1,0 +1,14 @@
+{
+  "name": "flow-codemod-issue",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "A.js",
+  "dependencies": {
+    "flow-bin": "0.312.0",
+    "flow-upgrade": "2.22.0"
+  },
+  "private": true
+}
